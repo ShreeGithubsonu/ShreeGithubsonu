@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/mamata-jakkapalli/**
 
-- ⚡ Fun fact **I love to listening music and sing a song**
+- ⚡ Fun fact **Passionate about immersing myself in music, both through active listening and expressing myself through song**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
