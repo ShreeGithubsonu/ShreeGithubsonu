@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/sonushree" target="blank"><img src="https://img.shields.io/twitter/follow/sonushree?logo=twitter&style=for-the-badge" alt="sonushree" /></a> </p>
 
-- I’m 3rd year EnTC student at **SPPU**
+- I’m Final year EnTC student at **SPPU**
 
 - 🌱 I’m currently learning **machine learning,Java**
 
