@@ -8,7 +8,7 @@
 
 - I’m Final year EnTC student at **SPPU**
 
-- 🌱 I’m currently learning **machine learning,**
+- 🌱 I’m currently learning **machine learning Algorithms and Tableau**
 
 - 👯 Seeking to collaborate with experienced **professionals and startup** enthusiasts in the **data analytics field**.
 
