@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/sonushree" target="blank"><img src="https://img.shields.io/twitter/follow/sonushree?logo=twitter&style=for-the-badge" alt="sonushree" /></a> </p>
 
-- I’m Final year EnTC student at **SPPU**
+- Recent graduate and Data Analyst intern skilled in **Python, SQL, and advanced MS Excel**. Proficient in data visualization with **Power BI**. Strong problem-solving, leadership, and presentation skills. Experienced in interpreting complex data and delivering actionable insights.
 
 - 🌱 I’m currently learning **Machine learning Algorithms and Tableau**
 
