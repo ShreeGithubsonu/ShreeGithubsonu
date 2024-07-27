@@ -8,13 +8,13 @@
 
 - I’m Final year EnTC student at **SPPU**
 
-- 🌱 I’m currently learning **machine learning,Java**
+- 🌱 I’m currently learning **machine learning,**
 
-- 👯 I’m looking to collaborate with **other Experienced Developers and Startupers**
+- 👯 Seeking to collaborate with experienced **professionals and startup** enthusiasts in the **data analytics field**.
 
 - 📫 How to reach me **https://www.linkedin.com/in/mamata-jakkapalli/**
 
-- ⚡ Fun fact **Passionate about immersing myself in music, both through active listening and expressing myself through song**
+- ⚡ Fun fact **Passionate about exploring startup ideas and innovations through listening to podcasts and immersing myself in music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
